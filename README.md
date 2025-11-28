@@ -119,7 +119,3 @@ This simulates a simplified **enterprise monitoring environment** like those use
 ## **License**
 This project is for educational purposes only.  
 
----
-
-## **Screenshot / Demo**
-*(Optional: Add screenshots of your GUI dashboard here if available)*
